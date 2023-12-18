@@ -1,0 +1,12 @@
+The "tests" directory is dedicated to storing test scripts, test cases and any related assets for validating the fuctionality and performance of aerospace systems. Organising tests in a structures manner supports systematic testing, quality assurance systems.
+
+Organising tests in a structured manner supports systematic testing , quality assurance and the identification of potential issues early in the development process.
+
+Testing is a critical aspect of aerospace projects, ensuring the reliability, safety and performance of systems and components.
+
+The "tests" directory serves as a centralised location for storing test scripts, test cases and associated assets, facilitating systematic testing processes thorughout the project lifecycle.
+
+Organise the "tests" directory with subdirectories based on test types, system components or testing phases.
+
+For instance, you might create subsirectories like "unit_tests", "integration_test" or outlining the expected outcomes and criteria for success.
+
