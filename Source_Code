@@ -1,0 +1,17 @@
+The "source_code" directory houses all source code related to the aerospace projects.
+
+This includes software, firmware and any codebase relevant to the project.
+
+Adoting a structured approached to organising source code facilitates version control, collaboration and seamless integration of changes into the overall project.
+
+In the aerospace industry, source code is a critical component of the project, encompassing software applications, enbedded firmware and control algorithms.
+
+The "source_code" directory plays a pivotal role in version control and collaboration among developers and engineers.
+
+Organising source code into subdirectories based on software modules, subsystems or components can enhance maintainability and ease of navigation.
+
+Consider creating subdirectories like "software" and "firmware" within "source_code" to distinguish between software applications running on ground systems and enbedded firmware running on aerospace platforms.
+
+Each subdirectory may further contain subdirectiries for specific fuctionalities, modules or hardware components.
+
+This hierarchical structure aids in maintaining a clear separation of concerns and allows for targeted development efforts.
