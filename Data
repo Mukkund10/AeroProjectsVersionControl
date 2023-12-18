@@ -1,0 +1,20 @@
+The "data" directory is dedicated to storing datasets, test data and any other data-related assets used in the aerospace prjects.
+
+Organsing data in a centralised location promotes consistency, reproducibility and efficient data management throughout the project lifecycle.
+
+In aerospace projects, data plays a crucial role, raging from sensor readings and simulation outputs to experimental results and environmental data.
+
+The "data" directory serves as a centralised repository for storing datasets and other data-related assets, ensuring accessibility and traceability for team members involved in analysis, testing and validation processes.
+
+Organise the "data" directory with subdirectories based on data types, sources or project phase.
+
+For example, you might create subsirectories like "sensor_data","simulation_results" or "test_data".
+
+Each subdirectory can then contain datasets in thier respective formats, accompanised by metadata files or data sictionaries explaining the structure and context of the data.
+
+Consider implementing version control for datasets, especially when modifications or updates are made.
+
+Utilise Git LFS (large file storage) for efficiently handling large binary files commonly found in aerospace data.
+
+This ensures that changes to datasets are tracked and historical verions can be referenced as needed.
+
